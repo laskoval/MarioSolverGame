@@ -1,8 +1,6 @@
 #====================================================================
-# Authors: Julia, Reilly, Lidia, Samuel, Kenny
+# Authors:  Lidia
 # Date: Dec 3rd, 2023
-# Class: CSCI 336_01
-# Instructor: Prof. Aldrin Chua
 # Title: Recursive Maze Solver
 # Program Purpose: 
 #  - To find the correct path between start and end nodes in a maze. 
